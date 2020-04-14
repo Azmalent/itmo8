@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/usr/sbin/python3.8",
+    "code-runner.executorMap": {
+        //"python": "python3.7 -u"
+    }
+}
